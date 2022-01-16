@@ -1,9 +1,10 @@
 import React from 'react';
+import HeaderSection from './HeaderSection/HeaderSection';
 
 const Home = () => {
     return (
         <div>
-            <h1 style={{textAlign: "center", marginTop: "40px"}}>Hellow World</h1>
+            <HeaderSection></HeaderSection>
         </div>
     );
 };

@@ -1,0 +1,10 @@
+.header-section {
+    width: 100%;
+    position: relative;
+}
+
+.header-video {
+    width: 100%;
+    position: absolute;
+    z-index: 0;
+}
