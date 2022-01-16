@@ -1,26 +1,9 @@
 import React from 'react';
-import './Navigation.css'
-
-const Navigation = () => {
+import './HeroSection.css'
+const HeroSection = () => {
     return (
         <section>
-            <div className='navigation-section text-white'>
-                <div className='container mx-auto'>
-                    <div className='flex py-5 sticky'>
-                        <div className='inner-navigation-logo justify-self-start'>logo</div>
-                        <div className='inner-navigation-munu '>
-                            <ul className='flex justify-end'>
-                                <li>Home</li>
-                                <li>About</li>
-                                <li>Blogs</li>
-                                <li>Servies</li>
-                                <li>Contact</li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div className='navigation-second-div'>
+            <div className='hero-section'>
                 <div className='container mx-auto md:p-32 '>
                     <div className=''>
                         <h1 className='md:leading-tight md:text-7xl md:mb-14 md:font-black text-center text-white '>করার মালিক একমাত্র আল্লাহ আমি তো এক চেষ্টা মাত্র </h1>
@@ -32,4 +15,4 @@ const Navigation = () => {
     );
 };
 
-export default Navigation;
+export default HeroSection;

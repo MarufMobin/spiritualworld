@@ -1,0 +1,18 @@
+.inner-manu-logo {
+    width: 30%;
+}
+
+.inner-main-munu {
+    width: 70%;
+}
+
+.inner-main-munu ul li {
+    margin-left: 30px;
+    list-style-type: none;
+}
+
+.mainmanu {
+    z-index: 1;
+    position: absolute;
+    width: 100%;
+}

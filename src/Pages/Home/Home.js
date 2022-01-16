@@ -1,10 +1,10 @@
 import React from 'react';
-import HeaderSection from './HeaderSection/HeaderSection';
+import HeroSection from './HeroSection/HeroSection';
 
 const Home = () => {
     return (
         <div>
-            <HeaderSection></HeaderSection>
+            <HeroSection></HeroSection>
         </div>
     );
 };
