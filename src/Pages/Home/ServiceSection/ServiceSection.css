@@ -1,0 +1,13 @@
+.service-section {
+    width: 100%;
+    margin: 0px auto;
+    position: absolute;
+    z-index: 1;
+    top: 900px;
+    padding: 0px 0px 80px;
+    background-color: #010001;
+}
+
+.custom-service-inner-container {
+    margin-top: -200px;
+}
