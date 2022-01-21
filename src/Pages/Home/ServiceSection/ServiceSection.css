@@ -11,3 +11,9 @@
 .custom-service-inner-container {
     margin-top: -200px;
 }
+
+.service-section-cust {
+    background-color: rgb(255, 255, 255);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+}
